@@ -1,4 +1,4 @@
-package com.murendeni.crtd.controller;
+package com.example.senddatabase.controller;
 
 import com.example.senddatabase.dto.StudentRequest;
 import com.example.senddatabase.dto.StudentResponse;
